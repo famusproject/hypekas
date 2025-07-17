@@ -79,3 +79,12 @@ Aplikasi ini dilengkapi dengan berbagai lapisan keamanan:
 -   `expenses` - Data pengeluaran
 
 
+## 🚀 Tampilan Aplikasi
+- **Tampilan Login**
+  
+- **Tampilan Dashboard**
+- **Tampilan Tabel Produk**
+- **Tampilan Form Create**
+- **Tampilan Form Edit***
+- **Tampilan Delete**
+
