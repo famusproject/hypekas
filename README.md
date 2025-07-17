@@ -81,10 +81,15 @@ Aplikasi ini dilengkapi dengan berbagai lapisan keamanan:
 
 ## 🚀 Tampilan Aplikasi
 - **Tampilan Login**
-  
+  ![login](login.png)
 - **Tampilan Dashboard**
+  ![Dashboard](dashboard.png)
 - **Tampilan Tabel Produk**
+  ![Tabel](tabel.png)
 - **Tampilan Form Create**
+- ![create](create.png)
 - **Tampilan Form Edit***
+  ![edit](edit.png)
 - **Tampilan Delete**
+  ![delete](delete.png)
 
